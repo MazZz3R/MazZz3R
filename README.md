@@ -1,7 +1,4 @@
 ### Hello where 👋 ![Profile views](https://gpvc.arturio.dev/mazzz3r)
-
-![mzr](https://github.com/mazzz3r/mazzz3r/blob/master/mzr.gif)
-
 ## Stack
 
 ![Python](https://img.shields.io/badge/-Python-%230075a8?logo=python&logoColor=white&style=flat-square)
