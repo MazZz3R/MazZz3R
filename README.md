@@ -1,4 +1,4 @@
-### Hello where 👋 ![Profile views](https://gpvc.arturio.dev/mazzz3r)
+### Hello there 👋 ![Profile views](https://gpvc.arturio.dev/mazzz3r)
 ## Stack
 
 ![Python](https://img.shields.io/badge/-Python-%230075a8?logo=python&logoColor=white&style=flat-square)
