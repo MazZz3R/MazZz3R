@@ -10,7 +10,7 @@
 The main lang is Python. Now I am actively learning Swift ✨
 
 ## Stats
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mazzz3r&theme=dark&show_icons=true&count_private=true&include_all_commits=true">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mazzz3r&show_icons=true&count_private=true&include_all_commits=true">
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=MazZz3R">
 
 ## Contacts
