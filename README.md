@@ -10,8 +10,8 @@
 The main lang is Python. Now I am actively learning Swift ✨
 
 ## Stats
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mazzz3r&show_icons=true&count_private=true&include_all_commits=true">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=MazZz3R">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mazzz3r&show_icons=true&count_private=true&include_all_commits=true&theme=dark">
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=MazZz3R&theme=dark">
 
 ## Contacts
 - <a href="https://t.me/mazzz3r"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png" width=16 height=16 /> Telegram</a>
