@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy&theme=nord"><img src="https://github-profile-trophy.vercel.app/?username=mazzz3r&theme=nord" alt="mazzz3r" /></a> </p>
 
-- 🔭 I’m currently working on [Followy](followy.ru)
+- 🔭 I’m currently working on [Followy](http://followy.ru)
 
 - 🌱 I’m currently learning **Swift, docker**
 
-- 👨‍💻 My website is available at [mazzz3r.su](mazzz3r.su)
+- 👨‍💻 My website is available at [mazzz3r.su](https://mazzz3r.su)
 
 - 💬 Ask me about **fastapi, sqlalchemy, vk_api**
 
