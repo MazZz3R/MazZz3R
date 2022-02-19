@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy&theme=nord"><img src="https://github-profile-trophy.vercel.app/?username=mazzz3r&theme=nord" alt="mazzz3r" /></a> </p>
 
-- 🔭 I’m currently working on [Followy](https://github.com/followy-dev)
+- 🔭 I’m currently working on [Followy](followy.ru)
 
 - 🌱 I’m currently learning **Swift, docker**
 
