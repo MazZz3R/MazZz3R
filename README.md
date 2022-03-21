@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **fastapi, sqlalchemy, vk_api**
 
-- 📫 How to reach me **mazzz3r@gmail.com**
+- 📫 How to reach me **i@mazzz3r.ru**
 
 - ⚡ Fun fact **Github is a file sharing service**
 
@@ -23,8 +23,6 @@
 <a href="https://twitter.com/mazzz3r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mazzz3r" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mazzz3r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mazzz3r" height="30" width="40" /></a>
 <a href="https://ru.stackoverflow.com/users/378375/mazzz3r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13292960" height="30" width="40" /></a>
-<a href="https://fb.com/mazzz3r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mazzz3r" height="30" width="40" /></a>
-<a href="https://instagram.com/mazzz3r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mazzz3r" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/mazzz3r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mazzz3r" height="30" width="40" /></a>
 </p>
 
