@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👋, I'm Georgy</h1>
-<h3 align="center">A passionate backend developer from Russia 🇷🇺</h3>
+<h3 align="center">A passionate API developer and CyberSecurity specialist from Russia 🇷🇺</h3>
 
 <p align="left"> <img src="https://gpvc.arturio.dev/mazzz3r" alt="mazzz3r" /> </p>
 
